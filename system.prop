@@ -1,3 +1,9 @@
-#
+
 # system.prop for mirage01a_msm8939_64
-#
+
+
+ro.sf.lcd_density=480
+ro.hardware.keystore=msm8916
+persist.sys.usb.config=mtp,adb
+ro.build.product=mirage01a_msm8939_64
+
